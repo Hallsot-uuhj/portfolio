@@ -1,0 +1,5 @@
+pythonping
+psutil
+vk_api
+pymysql
+datetime
